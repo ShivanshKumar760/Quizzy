@@ -49,10 +49,12 @@ Question('Some cats are actually allergic to humans', true),
         true),
 
 ```
-##Ios Demo
+Ios Demo
 ![Finished App](https://github.com/ShivanshKumar760/Quizzy/blob/main/iosDemo.gif)
-##Android Demo
+
+Android Demo
 ![Finished App](https://github.com/ShivanshKumar760/Quizzy/blob/main/androidDemo.png)
-##Main.dart
+
+Main.dart
 ![Finished App](https://github.com/ShivanshKumar760/Quizzy/blob/main/codeSnippet.png)
 
